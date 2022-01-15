@@ -37,6 +37,7 @@
   justify-content: space-between;
   cursor: pointer;
   box-sizing: border-box;
+  box-shadow: 5px 5px #3687e2;
 }
 
 #selectField img {
